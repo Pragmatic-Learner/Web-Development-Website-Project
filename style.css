@@ -1,0 +1,8 @@
+@import url("./styling/footer.css");
+@import url("./styling/navigationBar.css");
+@import url("./styling/movie_grid.css");
+@import url("./styling/movie_slides.css");
+
+body {
+    font-family: "Roboto";
+}
